@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a}from"./app.54274a05.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"public/README.md"}'),o={name:"public/README.md"},c=a("p",null,"本项目用于学习vitepress建立",-1),r=[c];function n(p,_,i,d,l,m){return s(),t("div",null,r)}const E=e(o,[["render",n]]);export{f as __pageData,E as default};
